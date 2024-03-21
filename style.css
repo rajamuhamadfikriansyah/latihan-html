@@ -1,0 +1,32 @@
+body{
+    background-color:white;
+}
+h1{
+    color: pink;
+    font-size: 40px;
+}
+p{
+    color: blue;
+}
+header{
+    
+}
+#profile img{
+    height: 300px;
+
+}
+table, th, td {
+    border: 2px solid green;
+
+   
+}
+h3{
+    color: black;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    table-layout: fixed;
+    
+}
